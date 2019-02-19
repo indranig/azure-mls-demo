@@ -4,8 +4,8 @@
 
 This sample project demonstrates the development and deployment of a non-trivial machine learning model using AMLS. We will be using Databricks as the development environment. This repository consists of three Databricks notebooks:
 
-`pumps-local.pnyb` demonstrates training models locally on Databricks in a notebook
-`pumps-train-amls.pnyb` covers training a model on AMLS with HyperDriver (hyperparameter grid search) and finally registering a model image on AMLS
+`pumps-local.pnyb` demonstrates training models locally on Databricks in a notebook  
+`pumps-train-amls.pnyb` covers training a model on AMLS with HyperDriver (hyperparameter grid search) and finally registering a model image on AMLS  
 `pumps-deploy-amls.pnyb` covers how to deploy the model we built in the previous notebook on [tbd] cluster using [tbd] service.
 
 #### NOTE: 
