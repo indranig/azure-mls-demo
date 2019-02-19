@@ -43,7 +43,7 @@ numpy==1.15.0
 pandas==0.24.1
 scikit-learn==0.20.2
 ```
-In addition, here are some additional Databricks environment configs: 
+In addition, here are some additional Databricks environment configs:   
 Databricks Runtime: 5.2  
 Python Version: 3
 
